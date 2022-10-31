@@ -20,14 +20,14 @@ The project stands out because of the great variety of products we can show to t
 
 ## Pictures of the project
 
-### Homepage
+### Homepage:
 
 <img width="1315" alt="homepage-small-gallery" src="https://user-images.githubusercontent.com/22691013/199072767-2fc5c8a7-fc31-4423-bef2-c695e62bc973.png">
 
-### Parallax scrolling effect and background
+### Parallax scrolling effect and background:
 
 <img width="1389" alt="background-parallax-effect" src="https://user-images.githubusercontent.com/22691013/199073305-0f35c6a5-616a-41f2-9206-601f29664ee8.png">
 
-### Pop-up windown at the parallax effect section
+### Pop-up window at the parallax effect section:
 
 <img width="1388" alt="pop-up-window-parallax-effect" src="https://user-images.githubusercontent.com/22691013/199073696-663842ad-51dc-4fba-a4b8-9cd49283eaa9.png">
