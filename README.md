@@ -9,5 +9,9 @@ I definitely enjoyed the development process, the learning and putting in practi
 The project stands out because of the great variety of products we can show to the potential customers.
 
 ## Features of the project
-The project has a home page, a navigation bar, a small gallery with the main products, a main gallery with all the products classified by its categories with a pop-ups window to see in detail each product. The pop-ups window has a button that gives you the functionality to carry to another page that describes in deep each product. It also contains a footer with information and contacts links in social networks like instagram and facebook. 
-Each of them with its logo. 
+* The project has a home page.
+* A navigation bar. 
+* A small gallery with the main products.
+* A main gallery with all the products classified by its categories with a pop-ups window to see in detail each product. 
+* The pop-ups window has a button that gives you the functionality to carry to another page that describes in deep each product. 
+* It also contains a footer with information and contacts links in social networks like instagram and facebook. Each of them with its logo. 
