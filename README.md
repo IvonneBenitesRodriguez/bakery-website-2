@@ -15,5 +15,5 @@ The project stands out because of the great variety of products we can show to t
 * For **marketing effects** we used a *parallax scrolling effect* with the main relevant words which identifies **lebongu bakery and chocolatier artisan**
 * In the *parallax scrolling effect part* there is button that when user gives click pops-up a window with a small introduction of the company.
 * A main gallery with all the products classified by its categories with a pop-ups window to see in detail each product. 
-* The pop-ups window has a button that gives you the functionality to carry to another page that describes in deep each product. 
+* The pop-ups window has a button that gives you the functionality to transport the user to another page that describes in deep each product. 
 * It also contains a footer with information and contacts links in social networks like instagram and facebook. Each of them with its logo. 
