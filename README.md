@@ -6,7 +6,7 @@ My main motivation to build this site was to help my friend to have a presence i
 I definitely enjoyed the development process, the learning and putting in practice of Bootstrap and the interaction with the needs of the customer.
 
 ## Good things about this project
-The project stands out because of the great variety of products we can show to the potential customers.
+The project stands out because of the great variety of products we can show to the potential customers. The site provides the functionality to show each product's page.
 
 ## Features of the project
 * The project has a home page.
