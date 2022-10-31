@@ -9,9 +9,11 @@ I definitely enjoyed the development process, the learning and putting in practi
 The project stands out because of the great variety of products we can show to the potential customers. The site provides the functionality to show each product's page.
 
 ## Features of the project
-* The project has a home page.
-* A navigation bar. 
-* A small gallery with the main products.
+* The project has a very complete home page.
+* A navigation bar with the logo of the company.
+* A small gallery with the main products. Each picture has a functionality of zoom-in effect when customer hovers it.
+* For **marketing effects** we used a *parallax scrolling effect* with the main relevant words which identifies **lebongu bakery and chocolatier artisan**
+* In the *parallax scrolling effect part* there is button that when user gives click pops-up a window with a small introduction of the company.
 * A main gallery with all the products classified by its categories with a pop-ups window to see in detail each product. 
 * The pop-ups window has a button that gives you the functionality to carry to another page that describes in deep each product. 
 * It also contains a footer with information and contacts links in social networks like instagram and facebook. Each of them with its logo. 
