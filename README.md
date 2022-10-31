@@ -23,3 +23,8 @@ The project stands out because of the great variety of products we can show to t
 ### Homepage
 
 <img width="1315" alt="homepage-small-gallery" src="https://user-images.githubusercontent.com/22691013/199072767-2fc5c8a7-fc31-4423-bef2-c695e62bc973.png">
+
+### Parallax scrolling effect and background
+
+<img width="1389" alt="background-parallax-effect" src="https://user-images.githubusercontent.com/22691013/199073305-0f35c6a5-616a-41f2-9206-601f29664ee8.png">
+
