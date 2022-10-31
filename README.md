@@ -31,3 +31,8 @@ The project stands out because of the great variety of products we can show to t
 ### Pop-up window at the parallax effect section:
 
 <img width="1388" alt="pop-up-window-parallax-effect" src="https://user-images.githubusercontent.com/22691013/199073696-663842ad-51dc-4fba-a4b8-9cd49283eaa9.png">
+
+### Our Products Category and Gallery Products:
+
+<img width="1337" alt="ourProducts" src="https://user-images.githubusercontent.com/22691013/199074428-2d8cd2be-7798-4241-be7c-eaed4659bf44.png">
+
