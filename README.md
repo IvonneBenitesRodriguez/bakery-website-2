@@ -36,3 +36,4 @@ The project stands out because of the great variety of products we can show to t
 
 <img width="1337" alt="ourProducts" src="https://user-images.githubusercontent.com/22691013/199074428-2d8cd2be-7798-4241-be7c-eaed4659bf44.png">
 
+<img width="1386" alt="gallery2" src="https://user-images.githubusercontent.com/22691013/199074747-315e149a-4114-4a53-9203-cb9b158920f1.png">
