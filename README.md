@@ -40,3 +40,4 @@ The project stands out because of the great variety of products we can show to t
 
 <img width="1396" alt="gallery3" src="https://user-images.githubusercontent.com/22691013/199075043-47ee9486-0441-46ba-916f-0b1b35be3077.png">
 
+<img width="1383" alt="gallery4" src="https://user-images.githubusercontent.com/22691013/199075340-b6ab6887-85b2-40bc-bef3-5cd77f1b2063.png">
