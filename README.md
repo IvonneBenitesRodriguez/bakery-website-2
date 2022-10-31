@@ -17,3 +17,9 @@ The project stands out because of the great variety of products we can show to t
 * A main gallery with all the products classified by its categories with a pop-ups window to see in detail each product. 
 * The pop-ups window has a button that gives you the functionality to transport the user to another page that describes in deep each product. 
 * It also contains a footer with information and contacts links in social networks like instagram and facebook. Each of them with its logo. 
+
+## Pictures of the project
+
+### Homepage
+
+<img width="1315" alt="homepage-small-gallery" src="https://user-images.githubusercontent.com/22691013/199072767-2fc5c8a7-fc31-4423-bef2-c695e62bc973.png">
