@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: NevilleScript;
+   
+    @font-face {
+        font-family: NevilleScript
+        font-family: ChaslineNormal;
+        font-stretch: expanded;
+        src: url(../Font/NevilleScript);
+        src: url(../Font/ChaslineNormal) format(ttf),
+    }
+}
+.font-barra2 li a{
+    font-size: 22px;
+}
+.font-barra{
+    font-size: 28px;
+}
+.container-one{
+    position: relative;
+    text-align: center;
+    color: #004a2f;
+}
+
+.texto{
+    color: #004a2f;
+    font-family: NevilleScript;
+    font-size: 26px;
+    font-weight: 900;
+    font-stretch: expanded;
+    transition: transform .2s;
+}
+
+.texto:hover{
+    transform:scale(1.3);
+}
+
+.centered{
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    transform: translate(50%,50%);
+    font-weight: 900;
+   font-size: 28px;
+   /*text-shadow: 1px 1px #004a2f;*/
+   line-height: 1;
+   color: white;
+    z-index: 1;
+    border: 2px solid #d6a461;
+}
+/*Giving the Zoom Effect to an Image */
+.img-hover{
+position: relative;
+overflow: hidden;
+width: 360px;
+margin: 10px;
+}
+.img-hover img{
+    max-width: 100%;
+    text-align: center;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.img-hover:hover img{
+    -moz-transform: scale(1.5);
+    -webkit-transform:scale(1.5);
+    transform: scale(1.5);
+}
+img{
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    transition: 0.5s;
+    position: relative;
+    z-index: 1;
+}
+div.parallax-image{
+    background-image: url('../img/chocolate/row-1-col-2.jpg');
+    background-attachment: fixed;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 350px;
+}
+
+/*div.parallax-slogan{
+    background-image: url(../img/logo/BackgroundLebongu.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+    z-index: 1;
+}
+*/
+
+h2{
+    display:flex;
+    flex-direction: row;
+    font-size: 46px;
+}
+h2:before, 
+h2:after { 
+    content: "";
+    flex: 1 1;
+    border-bottom: 2px solid white;
+    margin: auto;
+
+}
+.subtitle{
+    padding-top: 7.5rem;
+}
+a{
+    text-decoration:none;
+    font-size: 28px;
+}
+
+ul a li{
+    list-style: none;
+    padding: 10px;
+    display: inline-block;   
+}
+.row .bg-light {
+    min-height:500px;
+}
+a.btn-info{
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+}
+.fondo-footer{
+    background-color: #004a2f;
+    font-family: 'Roboto', sans-serif; 
+}
+.text-paragraph{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px!important;
+}
+.btn.text-light.button-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #004a2f;
+    border: 2px solid #004a2f;
+}
+
+a.link-contact-us{
+    text-decoration:none;
+}
+.lebongu-logo{
+    border: none;
+}
+.logo-zelle{
+    border: none;
+}
+.logo-facebook{
+    border: none;
+}
+.logo-instagram{
+    border: none;
+}
+.modal-dialog{
+background-color: white;
+}
+.modal-footer{
+    pointer-events:all;
+}
+.bg-yellow{
+    background-color: #d6a461;
+}
+
+.lebongu-logo{
+    border-radius: 50%;
+}
+.rounded-pill{
+    background-color:white;
+    width: 220px;
+    height: 55px;   
+}
+
+.slogan{
+    font-size: 50px;
+}
+.line1{
+    background-color: white;
+    width: 40%;
+    height: 10px;
+}
+.text-greenLebongu{
+    color: #004a2f;
+}
+i.bi-dash-lg{
+    color: #004a2f;
+}
+.lebongu-typo{
+    font-size:24px;
+    font-family: 'Roboto', sans-serif;
+}
+.botonlebongu{
+    font-size: 32px;
+}
+.honest-fresh-background .modal-content{
+    background-image: url(../img/logo/HonestFreshArtBackgroundBeFunky.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 650px;
+    height: 450px;
+}
+h2.text-right.subtitles-chocolate-art{
+    font-size: 26px;
+}
+h2.text-left.subtitles-chocolate-art{
+    font-size: 26px;
+}
