@@ -1,5 +1,6 @@
 # Project : bakery-website-2 
 This is the 2nd version of the Bakery Site named _lebongu bakery and chocolatier artisan_.
+Link to visit :   https://ivonnebenitesrodriguez.github.io/bakery-website-2/
 
 ## My motivation
 My main motivation to build this site was to help my friend to have a presence in internet. She is a pastry chef and needed a site to show her products and commercialise it.
